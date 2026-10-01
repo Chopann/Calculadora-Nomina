@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CalculadoraNomina</string>
+    <string name="titulo">Calculadora de Nomina</string>
+    <string name="salario_basico">Salario Basico Mensual</string>
+    <string name="boton_calcular">Calcular</string>
+    <string name="salario_neto">Salario neto a recibir</string>
+    <string name="horas_diurnas">Horas extra diurnas</string>
+    <string name="horas_nocturnas">Horas extra nocturnas</string>
+    <string name="domingo_festivo">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa">La empresa suministra el transporte</string>
+    <string name="seccion_devengado">Devengado</string>
+    <string name="seccion_deducciones">Deducciones</string>
+    <string name="valor_hora">Valor hora ordinaria</string>
+    <string name="concepto_salario_basico">Salario básico</string>
+    <string name="horas_extra">Horas extra</string>
+    <string name="auxilio_transporte">Auxilio de transporte</string>
+    <string name="total_devengado">Total devengado</string>
+    <string name="aporte_salud" formatted="false">Salud (4 %)</string>
+    <string name="aporte_pension" formatted="false">Pensión (4 %)</string>
+    <string name="fondo_solidaridad" formatted="false">Fondo de Solidaridad Pensional (1 %)</string>
+    <string name="total_deducciones">Total deducciones</string>
+    <string name="rango_1_texto">Rango 1: con derecho a auxilio de transporte</string>
+    <string name="rango_2_texto">Rango 2: sin auxilio de transporte ni Fondo de Solidaridad</string>
+    <string name="rango_3_texto">Rango 3: aporta al Fondo de Solidaridad Pensional</string>
+
+    <string name="rango_1_descripcion">Ícono de bus: rango salarial 1</string>
+    <string name="rango_2_descripcion">Ícono de maletín: rango salarial 2</string>
+    <string name="rango_3_descripcion">Ícono de estrella: rango salarial 3</string>
+    <string name="boton_limpiar">Limpiar</string>
+    <string name="error_salario_invalido">Ingrese un salario válido</string>
+    <string name="error_salario_minimo">El salario no puede ser inferior al mínimo ($ 1.750.905)</string>
+    <string name="error_horas_invalidas">Las horas extra deben ser un número mayor o igual a cero</string>
+    <string name="error_horas_exceso">El total de horas extra no puede superar 48 en el mes</string>
+</resources>
